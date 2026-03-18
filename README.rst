@@ -5,6 +5,7 @@ tokenlib
 test ruleset
 test check on workflow files
 test bypass
+test ssdlc
 
 This is generic support library for doing token-based authentication.  You
 might use it to build a login system using bearer tokens, two-legged oauth, or
